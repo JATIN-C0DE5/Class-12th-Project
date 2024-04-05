@@ -1,0 +1,5 @@
+Modules and packages:-
+	pandas
+	colorama
+
+ANSIcon installed for coloured texts
